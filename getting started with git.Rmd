@@ -1,0 +1,12 @@
+---
+title: "Git instructions.."
+author: "Louise Archer"
+date: "2024-04-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+follow instructions on this web site:
+https://happygitwithr.com/https-pat
